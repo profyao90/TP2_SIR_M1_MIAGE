@@ -1,0 +1,16 @@
+0:0:0:0:0:0:0:1 - - [26/Feb/2018:01:29:53 +0100] "GET /index.html HTTP/1.1" 404 971 http-bio-9955-exec-1 64
+0:0:0:0:0:0:0:1 - - [26/Feb/2018:01:30:02 +0100] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9955-exec-3 5
+0:0:0:0:0:0:0:1 - - [26/Feb/2018:01:30:11 +0100] "GET /index.html HTTP/1.1" 404 971 http-bio-9955-exec-4 5
+0:0:0:0:0:0:0:1 - - [26/Feb/2018:01:30:26 +0100] "GET /index.html HTTP/1.1" 404 971 http-bio-9955-exec-8 4
+0:0:0:0:0:0:0:1 - - [26/Feb/2018:01:31:47 +0100] "GET /index.html HTTP/1.1" 200 1329 http-bio-9955-exec-1 85
+0:0:0:0:0:0:0:1 - - [26/Feb/2018:01:31:48 +0100] "GET /js/jquery.min.js HTTP/1.1" 200 84320 http-bio-9955-exec-2 61
+0:0:0:0:0:0:0:1 - - [26/Feb/2018:01:31:48 +0100] "GET /js/angular.min.js HTTP/1.1" 200 125909 http-bio-9955-exec-5 44
+0:0:0:0:0:0:0:1 - - [26/Feb/2018:01:31:48 +0100] "GET /js/bootstrap.min.js HTTP/1.1" 200 35951 http-bio-9955-exec-3 55
+0:0:0:0:0:0:0:1 - - [26/Feb/2018:01:31:48 +0100] "GET /css/bootstrap.min.css HTTP/1.1" 200 117305 http-bio-9955-exec-4 212
+0:0:0:0:0:0:0:1 - - [26/Feb/2018:01:31:48 +0100] "GET /js/angular-resource.min.js HTTP/1.1" 200 3582 http-bio-9955-exec-9 67
+0:0:0:0:0:0:0:1 - - [26/Feb/2018:01:31:48 +0100] "GET /js/apiRest.js HTTP/1.1" 200 824 http-bio-9955-exec-10 69
+0:0:0:0:0:0:0:1 - - [26/Feb/2018:01:32:25 +0100] "GET /index.html HTTP/1.1" 304 - http-bio-9955-exec-3 46
+0:0:0:0:0:0:0:1 - - [26/Feb/2018:18:22:16 +0100] "GET /index.html HTTP/1.1" 200 1331 http-bio-9955-exec-4 703
+0:0:0:0:0:0:0:1 - - [26/Feb/2018:18:22:16 +0100] "GET /index.html HTTP/1.1" 200 1331 http-bio-9955-exec-1 1238
+0:0:0:0:0:0:0:1 - - [26/Feb/2018:18:22:22 +0100] "GET /js/apiRest.js HTTP/1.1" 200 824 http-bio-9955-exec-7 134
+0:0:0:0:0:0:0:1 - - [26/Feb/2018:18:22:25 +0100] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9955-exec-9 7

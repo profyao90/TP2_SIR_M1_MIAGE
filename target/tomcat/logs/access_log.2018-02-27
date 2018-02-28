@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [27/Feb/2018:20:49:28 +0100] "GET /index.html HTTP/1.1" 200 1331 http-bio-9955-exec-1 144
+0:0:0:0:0:0:0:1 - - [27/Feb/2018:20:49:29 +0100] "GET /js/apiRest.js HTTP/1.1" 200 824 http-bio-9955-exec-7 101
+0:0:0:0:0:0:0:1 - - [27/Feb/2018:20:49:30 +0100] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9955-exec-8 7
+0:0:0:0:0:0:0:1 - - [27/Feb/2018:21:09:10 +0100] "GET /index.html HTTP/1.1" 200 1787 http-bio-9955-exec-7 92
+0:0:0:0:0:0:0:1 - - [27/Feb/2018:21:09:21 +0100] "POST /PersonInfo HTTP/1.1" 404 971 http-bio-9955-exec-5 11
+0:0:0:0:0:0:0:1 - - [27/Feb/2018:21:11:32 +0100] "GET /index.html HTTP/1.1" 200 1782 http-bio-9955-exec-7 8
+0:0:0:0:0:0:0:1 - - [27/Feb/2018:21:11:32 +0100] "GET /index.html HTTP/1.1" 304 - http-bio-9955-exec-7 1
+0:0:0:0:0:0:0:1 - - [27/Feb/2018:21:11:41 +0100] "POST /index HTTP/1.1" 404 961 http-bio-9955-exec-8 4
+0:0:0:0:0:0:0:1 - - [27/Feb/2018:21:11:49 +0100] "GET /index.html HTTP/1.1" 304 - http-bio-9955-exec-3 2
+0:0:0:0:0:0:0:1 - - [27/Feb/2018:21:28:07 +0100] "GET /index.html HTTP/1.1" 200 1788 http-bio-9955-exec-5 7
+0:0:0:0:0:0:0:1 - - [27/Feb/2018:21:28:25 +0100] "POST /UserInfoBis HTTP/1.1" 500 4278 http-bio-9955-exec-9 4784

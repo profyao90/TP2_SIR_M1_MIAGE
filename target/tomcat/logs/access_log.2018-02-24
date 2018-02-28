@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [24/Feb/2018:20:31:32 +0100] "GET /index.html HTTP/1.1" 200 132 http-bio-9955-exec-3 172
+0:0:0:0:0:0:0:1 - - [24/Feb/2018:20:31:34 +0100] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9955-exec-5 5
+0:0:0:0:0:0:0:1 - - [24/Feb/2018:20:32:44 +0100] "GET /index.html HTTP/1.1" 304 - http-bio-9955-exec-7 57
+0:0:0:0:0:0:0:1 - - [24/Feb/2018:20:32:48 +0100] "GET /index.html HTTP/1.1" 304 - http-bio-9955-exec-7 1
+0:0:0:0:0:0:0:1 - - [24/Feb/2018:20:32:49 +0100] "GET /index.html HTTP/1.1" 304 - http-bio-9955-exec-7 1
+0:0:0:0:0:0:0:1 - - [24/Feb/2018:20:48:45 +0100] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9955-exec-2 93
+0:0:0:0:0:0:0:1 - - [24/Feb/2018:20:49:19 +0100] "GET /index.html HTTP/1.1" 304 - http-bio-9955-exec-4 68
+0:0:0:0:0:0:0:1 - - [24/Feb/2018:20:49:20 +0100] "GET /index.html HTTP/1.1" 304 - http-bio-9955-exec-5 1
+0:0:0:0:0:0:0:1 - - [24/Feb/2018:20:49:21 +0100] "GET /index.html HTTP/1.1" 304 - http-bio-9955-exec-6 1
+0:0:0:0:0:0:0:1 - - [24/Feb/2018:20:52:07 +0100] "GET /userinfo.html HTTP/1.1" 404 977 http-bio-9955-exec-8 3
+0:0:0:0:0:0:0:1 - - [24/Feb/2018:20:55:26 +0100] "GET /index.html HTTP/1.1" 200 169 http-bio-9955-exec-10 33
+0:0:0:0:0:0:0:1 - - [24/Feb/2018:20:55:28 +0100] "GET /index.html HTTP/1.1" 304 - http-bio-9955-exec-10 2
+0:0:0:0:0:0:0:1 - - [24/Feb/2018:20:56:36 +0100] "GET /userinfo.html HTTP/1.1" 404 977 http-bio-9955-exec-3 2
+0:0:0:0:0:0:0:1 - - [24/Feb/2018:20:56:46 +0100] "GET /UserInfo.html HTTP/1.1" 404 977 http-bio-9955-exec-3 2
+0:0:0:0:0:0:0:1 - - [24/Feb/2018:20:56:48 +0100] "GET /UserInfo.html HTTP/1.1" 404 977 http-bio-9955-exec-3 1
+0:0:0:0:0:0:0:1 - - [24/Feb/2018:21:00:43 +0100] "GET /index.html HTTP/1.1" 304 - http-bio-9955-exec-9 5
+0:0:0:0:0:0:0:1 - - [24/Feb/2018:21:37:21 +0100] "GET /index.html HTTP/1.1" 304 - http-bio-9955-exec-1 163

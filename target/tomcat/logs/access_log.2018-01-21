@@ -1,0 +1,15 @@
+0:0:0:0:0:0:0:1 - - [21/Jan/2018:11:26:01 +0100] "GET /person HTTP/1.1" 404 963 http-bio-9955-exec-1 68
+0:0:0:0:0:0:0:1 - - [21/Jan/2018:11:26:01 +0100] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9955-exec-2 1
+0:0:0:0:0:0:0:1 - - [21/Jan/2018:11:26:51 +0100] "GET /person.html HTTP/1.1" 404 973 http-bio-9955-exec-3 5
+0:0:0:0:0:0:0:1 - - [21/Jan/2018:11:26:56 +0100] "GET /person.html HTTP/1.1" 404 973 http-bio-9955-exec-4 2
+0:0:0:0:0:0:0:1 - - [21/Jan/2018:11:29:54 +0100] "GET /index.html HTTP/1.1" 200 132 http-bio-9955-exec-6 8
+0:0:0:0:0:0:0:1 - - [21/Jan/2018:11:30:10 +0100] "GET /person.html HTTP/1.1" 404 973 http-bio-9955-exec-7 3
+0:0:0:0:0:0:0:1 - - [21/Jan/2018:11:30:26 +0100] "GET /Person.html HTTP/1.1" 200 370 http-bio-9955-exec-8 5
+0:0:0:0:0:0:0:1 - - [21/Jan/2018:11:35:19 +0100] "GET /Heater.html HTTP/1.1" 200 456 http-bio-9955-exec-10 4
+0:0:0:0:0:0:0:1 - - [21/Jan/2018:11:54:07 +0100] "GET /Residence.html HTTP/1.1" 200 572 http-bio-9955-exec-2 4
+0:0:0:0:0:0:0:1 - - [21/Jan/2018:11:55:06 +0100] "GET /Residence.html HTTP/1.1" 200 572 http-bio-9955-exec-5 25
+0:0:0:0:0:0:0:1 - - [21/Jan/2018:12:17:29 +0100] "GET /electronicdivice.html HTTP/1.1" 200 371 http-bio-9955-exec-8 4
+0:0:0:0:0:0:0:1 - - [21/Jan/2018:12:17:32 +0100] "POST /UserInfo HTTP/1.1" 200 129 http-bio-9955-exec-8 8
+0:0:0:0:0:0:0:1 - - [21/Jan/2018:12:17:55 +0100] "POST /UserInfo HTTP/1.1" 200 129 http-bio-9955-exec-3 1
+0:0:0:0:0:0:0:1 - - [21/Jan/2018:12:19:00 +0100] "POST /UserInfo HTTP/1.1" 200 129 http-bio-9955-exec-6 2
+0:0:0:0:0:0:0:1 - - [21/Jan/2018:12:19:13 +0100] "POST /UserInfo HTTP/1.1" 200 129 http-bio-9955-exec-8 2

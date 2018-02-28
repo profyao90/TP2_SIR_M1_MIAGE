@@ -1,0 +1,7 @@
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:18:29:44 +0100] "GET /Person.html HTTP/1.1" 200 377 http-bio-9955-exec-1 111
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:18:32:52 +0100] "POST /save HTTP/1.1" 404 959 http-bio-9955-exec-4 34
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:18:35:38 +0100] "GET /Residence.html HTTP/1.1" 200 578 http-bio-9955-exec-3 90
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:18:36:08 +0100] "POST /residence/save HTTP/1.1" 404 979 http-bio-9955-exec-6 9
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:18:37:17 +0100] "GET /residence/ HTTP/1.1" 404 971 http-bio-9955-exec-8 1
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:18:37:25 +0100] "GET /residence HTTP/1.1" 404 969 http-bio-9955-exec-2 2
+0:0:0:0:0:0:0:1 - - [23/Jan/2018:18:37:32 +0100] "GET / HTTP/1.1" 200 132 http-bio-9955-exec-2 12

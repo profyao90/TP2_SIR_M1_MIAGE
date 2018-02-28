@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [20/Jan/2018:14:53:06 +0100] "GET /myform.html HTTP/1.1" 404 973 http-bio-9966-exec-7 7785
+0:0:0:0:0:0:0:1 - - [20/Jan/2018:18:09:21 +0100] "GET /myform.html HTTP/1.1" 404 973 http-bio-9966-exec-3 255
+0:0:0:0:0:0:0:1 - - [20/Jan/2018:18:30:28 +0100] "GET /index.html HTTP/1.1" 200 128 http-bio-9955-exec-1 113
+0:0:0:0:0:0:0:1 - - [20/Jan/2018:18:30:29 +0100] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9955-exec-4 9
+0:0:0:0:0:0:0:1 - - [20/Jan/2018:18:31:36 +0100] "GET /myform.html HTTP/1.1" 404 973 http-bio-9955-exec-6 2
+0:0:0:0:0:0:0:1 - - [20/Jan/2018:18:32:10 +0100] "GET /myurl HTTP/1.1" 200 25 http-bio-9955-exec-1 4
+0:0:0:0:0:0:0:1 - - [20/Jan/2018:18:33:01 +0100] "GET /UserInfo HTTP/1.1" 405 1065 http-bio-9955-exec-5 2
+0:0:0:0:0:0:0:1 - - [20/Jan/2018:18:33:35 +0100] "GET /userinfo/UserInfo HTTP/1.1" 404 985 http-bio-9955-exec-9 1
+0:0:0:0:0:0:0:1 - - [20/Jan/2018:18:34:34 +0100] "GET /myform.html HTTP/1.1" 404 973 http-bio-9955-exec-4 2
+0:0:0:0:0:0:0:1 - - [20/Jan/2018:18:36:33 +0100] "GET /myform.html HTTP/1.1" 200 273 http-bio-9955-exec-2 4
+0:0:0:0:0:0:0:1 - - [20/Jan/2018:18:37:13 +0100] "GET / HTTP/1.1" 200 132 http-bio-9955-exec-7 4

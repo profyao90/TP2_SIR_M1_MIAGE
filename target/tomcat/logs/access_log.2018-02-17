@@ -1,0 +1,3 @@
+0:0:0:0:0:0:0:1 - - [17/Feb/2018:19:27:57 +0100] "GET /myform.html HTTP/1.1" 200 273 http-bio-9955-exec-1 167
+0:0:0:0:0:0:0:1 - - [17/Feb/2018:19:27:58 +0100] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9955-exec-3 4
+0:0:0:0:0:0:0:1 - - [17/Feb/2018:19:28:18 +0100] "GET /index.html HTTP/1.1" 200 132 http-bio-9955-exec-4 4
